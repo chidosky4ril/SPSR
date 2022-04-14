@@ -9,7 +9,7 @@ This paper presents a novel wavelet-based approach for single-image super-resolu
 
 
 ## Preface
-If you have any questions about our paper, feel free to contact [Ike, Chidiebere] or [Muhammad Nazeer] via E-mail. And if you are using SPSR for your research, please cite this paper.
+If you have any questions about our paper, feel free to contact [Ike, Chidiebere](chidosky4ril@yahoo.com) or [Muhammad Nazeer] (nazeermuhammad2@gmail.com) via E-mail. And if you are using SPSR for your research, please cite this paper.
 
 ## Citation
 Please cite our paper if you find the work useful:
