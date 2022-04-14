@@ -22,7 +22,6 @@ https://doi.org/10.1007/s10044-019-00854-8
 ## Citation
 
 Please cite our paper if you find the work useful:
-
 @article{ike2020separable,
   title={Separable property-based super-resolution of lousy image data},
   author={Ike, Chidiebere Somadina and Muhammad, Nazeer},
