@@ -25,4 +25,4 @@ Please cite our paper if you find the work useful:
 
 
 ## Acknowledgements
-This code is built on [LANR-NLM]
+This code is built on [LANR-NLM](junjun0595@163.com)
